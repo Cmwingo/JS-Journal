@@ -13,5 +13,5 @@ Entry.prototype.countVowels = function() {
     }
     console.log(vowelCount);
   });
-}
+};
 exports.entryModule = Entry;
